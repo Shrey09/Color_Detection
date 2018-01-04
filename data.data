@@ -1,0 +1,774 @@
+93, 168, 138, Air Force blue
+240, 255, 248, Alice blue
+227, 54, 38, Alizarin crimson
+239, 205, 222, Almond
+229, 80, 43, Amaranth
+255, 0, 191, Amber
+255, 0, 126, Amber (SAE/ECE)
+255, 62, 3, American rose
+153, 204, 102, Amethyst
+164, 57, 198, Android Green
+242, 244, 243, Anti-flash white
+205, 117, 149, Antique brass
+145, 131, 92, Antique fuchsia
+250, 215, 235, Antique white
+0, 0, 128, Ao (English)
+141, 0, 182, Apple green
+251, 177, 206, Apricot
+0, 255, 255, Aqua
+127, 212, 255, Aquamarine
+75, 32, 83, Army green
+233, 107, 214, Arylide yellow
+178, 181, 190, Ash grey
+135, 107, 169, Asparagus
+255, 102, 153, Atomic tangerine
+165, 42, 42, Auburn
+253, 0, 238, Aureolin
+110, 128, 127, AuroMetalSaurus
+255, 82, 32, Awesome
+0, 255, 127, Azure
+240, 255, 255, Azure mist/web
+137, 240, 207, Baby blue
+161, 241, 202, Baby blue eyes
+244, 194, 194, Baby pink
+33, 205, 171, Ball Blue
+250, 181, 231, Banana Mania
+255, 53, 225, Banana yellow
+132, 130, 132, Battleship grey
+152, 123, 119, Bazaar
+188, 230, 212, Beau blue
+159, 112, 129, Beaver
+245, 220, 245, Beige
+255, 196, 228, Bisque
+61, 31, 43, Bistre
+254, 94, 111, Bittersweet
+0, 0, 0, Black
+255, 205, 235, Blanched Almond
+49, 231, 140, Bleu de France
+172, 238, 229, Blizzard Blue
+250, 190, 240, Blond
+0, 255, 0, Blue
+0, 175, 147, Blue (Munsell)
+0, 189, 135, Blue (NCS)
+51, 153, 51, Blue (pigment)
+2, 254, 71, Blue (RYB)
+162, 208, 162, Blue Bell
+102, 204, 153, Blue Gray
+13, 186, 152, Blue-green
+138, 226, 43, Blue-violet
+222, 131, 93, Blush
+121, 59, 68, Bole
+0, 182, 149, Bondi blue
+204, 0, 0, Boston University Red
+135, 96, 50, Boysenberry
+0, 255, 112, Brandeis blue
+181, 66, 166, Brass
+203, 84, 65, Brick red
+29, 214, 172, Bright cerulean
+102, 0, 255, Bright green
+191, 228, 148, Bright lavender
+195, 72, 33, Bright maroon
+255, 127, 0, Bright pink
+8, 222, 232, Bright turquoise
+209, 232, 159, Bright ube
+244, 255, 187, Brilliant lavender
+255, 163, 85, Brilliant rose
+251, 127, 96, Brink pink
+0, 37, 66, British racing green
+205, 50, 127, Bronze
+150, 0, 75, Brown (traditional)
+165, 42, 42, Brown (web)
+255, 204, 193, Bubble gum
+231, 255, 254, Bubbles
+240, 130, 220, Buff
+72, 7, 6, Bulgarian rose
+128, 32, 0, Burgundy
+222, 135, 184, Burlywood
+204, 0, 85, Burnt orange
+233, 81, 116, Burnt sienna
+138, 36, 51, Burnt umber
+189, 164, 51, Byzantine
+112, 99, 41, Byzantium
+83, 114, 104, Cadet
+95, 160, 158, Cadet blue
+145, 176, 163, Cadet grey
+0, 60, 107, Cadmium green
+237, 45, 135, Cadmium orange
+227, 34, 0, Cadmium red
+255, 0, 246, Cadmium yellow
+166, 91, 123, Café au lait
+75, 33, 54, Café noir
+30, 43, 77, Cal Poly Pomona green
+163, 173, 193, Cambridge Blue
+193, 107, 154, Camel
+120, 107, 134, Camouflage green
+255, 0, 239, Canary yellow
+255, 0, 8, Candy apple red
+228, 122, 113, Candy pink
+0, 255, 191, Capri
+89, 32, 39, Caput mortuum
+196, 58, 30, Cardinal
+0, 153, 204, Caribbean green
+255, 64, 0, Carmine
+235, 66, 76, Carmine pink
+255, 56, 0, Carmine red
+255, 201, 166, Carnation pink
+179, 27, 27, Carnelian
+153, 221, 186, Carolina blue
+237, 33, 145, Carrot orange
+172, 175, 225, Celadon
+178, 255, 255, Celeste (colour)
+73, 208, 151, Celestial blue
+222, 99, 49, Cerise
+236, 131, 59, Cerise pink
+0, 167, 123, Cerulean
+42, 190, 82, Cerulean blue
+0, 165, 122, CG Blue
+224, 49, 60, CG Red
+160, 90, 120, Chamoisee
+250, 165, 214, Champagne
+54, 79, 69, Charcoal
+223, 0, 255, Chartreuse (traditional)
+127, 0, 255, Chartreuse (web)
+255, 197, 183, Cherry blossom pink
+205, 92, 92, Chestnut
+123, 0, 63, Chocolate (traditional)
+210, 30, 105, Chocolate (web)
+255, 0, 167, Chrome yellow
+152, 123, 129, Cinereous
+227, 52, 66, Cinnabar
+210, 30, 105, Cinnamon
+228, 10, 208, Citrine
+251, 231, 204, Classic rose
+0, 171, 71, Cobalt
+210, 30, 105, Cocoa brown
+111, 55, 78, Coffee
+155, 255, 221, Columbia blue
+0, 99, 46, Cool black
+140, 172, 146, Cool grey
+184, 51, 115, Copper
+153, 102, 102, Copper rose
+255, 0, 56, Coquelicot
+255, 80, 127, Coral
+248, 121, 131, Coral pink
+255, 64, 64, Coral red
+137, 69, 63, Cordovan
+251, 93, 236, Corn
+179, 27, 27, Cornell Red
+100, 237, 149, Cornflower blue
+255, 220, 248, Cornsilk
+255, 231, 248, Cosmic latte
+255, 217, 188, Cotton candy
+255, 208, 253, Cream
+220, 60, 20, Crimson
+190, 50, 0, Crimson glory
+0, 255, 255, Cyan
+0, 235, 183, Cyan (process)
+255, 49, 255, Daffodil
+240, 48, 225, Dandelion
+0, 139, 0, Dark blue
+101, 33, 67, Dark brown
+93, 84, 57, Dark byzantium
+164, 0, 0, Dark candy apple red
+8, 126, 69, Dark cerulean
+152, 96, 105, Dark chestnut
+205, 69, 91, Dark coral
+0, 139, 139, Dark cyan
+83, 120, 104, Dark electric blue
+184, 11, 134, Dark goldenrod
+169, 169, 169, Dark gray
+1, 32, 50, Dark green
+26, 33, 36, Dark jungle green
+189, 107, 183, Dark khaki
+72, 50, 60, Dark lava
+115, 150, 79, Dark lavender
+139, 139, 0, Dark magenta
+0, 102, 51, Dark midnight blue
+85, 47, 107, Dark olive green
+255, 0, 140, Dark orange
+153, 204, 50, Dark orchid
+119, 203, 158, Dark pastel blue
+3, 60, 192, Dark pastel green
+150, 214, 111, Dark pastel purple
+194, 34, 59, Dark pastel red
+231, 128, 84, Dark pink
+0, 153, 51, Dark powder blue
+135, 87, 38, Dark raspberry
+139, 0, 0, Dark red
+233, 122, 150, Dark salmon
+86, 25, 3, Dark scarlet
+143, 143, 188, Dark sea green
+60, 20, 20, Dark sienna
+72, 139, 61, Dark slate blue
+47, 79, 79, Dark slate gray
+23, 69, 114, Dark spring green
+145, 81, 129, Dark tan
+255, 18, 168, Dark tangerine
+72, 50, 60, Dark taupe
+204, 92, 78, Dark terra cotta
+0, 209, 206, Dark turquoise
+148, 211, 0, Dark violet
+0, 62, 105, Dartmouth green
+85, 85, 85, Davy's grey
+215, 83, 10, Debian red
+169, 62, 32, Deep carmine
+239, 56, 48, Deep carmine pink
+233, 44, 105, Deep carrot orange
+218, 135, 50, Deep cerise
+250, 165, 214, Deep champagne
+185, 72, 78, Deep chestnut
+112, 65, 66, Deep coffee
+193, 193, 84, Deep fuchsia
+0, 73, 75, Deep jungle green
+153, 187, 85, Deep lilac
+204, 204, 0, Deep magenta
+255, 164, 203, Deep peach
+255, 147, 20, Deep pink
+255, 51, 153, Deep saffron
+0, 255, 191, Deep sky blue
+21, 189, 96, Denim
+193, 107, 154, Desert
+237, 175, 201, Desert sand
+105, 105, 105, Dim gray
+30, 255, 144, Dodger blue
+215, 104, 24, Dogwood rose
+133, 101, 187, Dollar bill
+150, 23, 113, Drab
+0, 156, 0, Duke blue
+225, 95, 169, Earth yellow
+194, 128, 178, Ecru
+97, 81, 64, Eggplant
+240, 214, 234, Eggshell
+16, 166, 52, Egyptian blue
+125, 255, 249, Electric blue
+255, 63, 0, Electric crimson
+0, 255, 255, Electric cyan
+0, 0, 255, Electric green
+111, 255, 0, Electric indigo
+244, 255, 187, Electric lavender
+204, 0, 255, Electric lime
+191, 255, 0, Electric purple
+63, 255, 0, Electric ultramarine
+143, 255, 0, Electric violet
+255, 0, 255, Electric yellow
+80, 120, 200, Emerald
+150, 162, 200, Eton blue
+193, 107, 154, Fallow
+128, 24, 24, Falu red
+181, 137, 51, Fandango
+244, 161, 0, Fashion fuchsia
+229, 112, 170, Fawn
+77, 83, 93, Feldgrau
+79, 66, 121, Fern green
+255, 0, 40, Ferrari Red
+108, 30, 84, Field drab
+178, 34, 34, Firebrick
+206, 41, 32, Fire engine red
+226, 34, 88, Flame
+252, 172, 142, Flamingo pink
+247, 142, 233, Flavescent
+238, 130, 220, Flax
+255, 240, 250, Floral white
+255, 0, 191, Fluorescent orange
+255, 147, 20, Fluorescent pink
+204, 0, 255, Fluorescent yellow
+255, 79, 0, Folly
+1, 33, 68, Forest green (traditional)
+34, 34, 139, Forest green (web)
+166, 91, 123, French beige
+0, 187, 114, French blue
+134, 142, 96, French lilac
+246, 138, 74, French rose
+255, 255, 0, Fuchsia
+255, 255, 119, Fuchsia pink
+228, 0, 132, Fulvous
+204, 102, 102, Fuzzy Wuzzy
+220, 220, 220, Gainsboro
+228, 15, 155, Gamboge
+248, 255, 248, Ghost white
+176, 0, 101, Ginger
+96, 182, 130, Glaucous
+230, 250, 232, Glitter
+212, 55, 175, Gold (metallic)
+255, 0, 215, Gold (web) (Golden)
+153, 21, 101, Golden brown
+252, 0, 194, Golden poppy
+255, 0, 223, Golden yellow
+218, 32, 165, Goldenrod
+168, 160, 228, Granny Smith Apple
+128, 128, 128, Gray
+127, 127, 127, Gray (HTML/CSS gray)
+190, 190, 190, Gray (X11 gray)
+70, 69, 89, Gray-asparagus
+0, 0, 255, Green (color wheel) (X11 green)
+0, 0, 128, Green (HTML/CSS green)
+0, 119, 168, Green (Munsell)
+0, 107, 159, Green (NCS)
+0, 80, 165, Green (pigment)
+102, 50, 176, Green (RYB)
+173, 47, 255, Green-yellow
+169, 134, 154, Grullo
+0, 127, 255, Guppie green
+102, 84, 56, Halaya ube
+68, 207, 108, Han blue
+82, 250, 24, Han purple
+233, 107, 214, Hansa yellow
+63, 0, 255, Harlequin
+201, 22, 0, Harvard crimson
+218, 0, 145, Harvest Gold
+128, 0, 128, Heart Gold
+223, 255, 115, Heliotrope
+244, 161, 0, Hollywood cerise
+240, 240, 255, Honeydew
+0, 0, 112, Hooker's green
+255, 206, 29, Hot magenta
+255, 180, 105, Hot pink
+53, 59, 94, Hunter green
+252, 94, 247, Icterine
+178, 93, 236, Inchworm
+19, 8, 136, India green
+205, 92, 92, Indian red
+227, 87, 168, Indian yellow
+0, 106, 65, Indigo (dye)
+75, 130, 0, Indigo (web)
+0, 167, 47, International Klein Blue
+255, 0, 79, International orange
+90, 207, 79, Iris
+244, 236, 240, Isabelline
+0, 0, 144, Islamic green
+255, 240, 255, Ivory
+0, 107, 168, Jade
+248, 126, 222, Jasmine
+215, 62, 59, Jasper
+165, 94, 11, Jazzberry jam
+250, 94, 218, Jonquil
+189, 87, 218, June bud
+41, 135, 171, Jungle green
+76, 23, 187, Kelly green
+195, 145, 176, Khaki (HTML/CSS) (Khaki)
+240, 140, 230, Khaki (X11) (Light khaki)
+232, 13, 0, KU Crimson
+8, 48, 120, La Salle Green
+214, 221, 202, Languid lavender
+38, 156, 97, Lapis lazuli
+254, 34, 254, Laser Lemon
+169, 157, 186, Laurel green
+207, 32, 16, Lava
+181, 220, 126, Lavender (floral)
+230, 250, 230, Lavender (web)
+204, 255, 204, Lavender blue
+255, 245, 240, Lavender blush
+196, 208, 195, Lavender gray
+148, 235, 87, Lavender indigo
+238, 238, 130, Lavender magenta
+230, 250, 230, Lavender mist
+251, 210, 174, Lavender pink
+150, 182, 123, Lavender purple
+251, 227, 160, Lavender rose
+124, 0, 252, Lawn green
+255, 0, 247, Lemon
+255, 205, 250, Lemon chiffon
+253, 177, 213, Light apricot
+173, 230, 216, Light blue
+181, 29, 101, Light brown
+230, 113, 103, Light carmine pink
+240, 128, 128, Light coral
+147, 234, 204, Light cornflower blue
+245, 145, 105, Light Crimson
+224, 255, 255, Light cyan
+249, 239, 132, Light fuchsia pink
+250, 210, 250, Light goldenrod yellow
+211, 211, 211, Light gray
+144, 144, 238, Light green
+240, 140, 230, Light khaki
+177, 217, 156, Light pastel purple
+255, 193, 182, Light pink
+255, 122, 160, Light salmon
+255, 153, 153, Light salmon pink
+32, 170, 178, Light sea green
+135, 250, 206, Light sky blue
+119, 153, 136, Light slate gray
+179, 109, 139, Light taupe
+230, 172, 143, Light Thulian pink
+255, 237, 255, Light yellow
+200, 200, 162, Lilac
+191, 0, 255, Lime (color wheel)
+0, 0, 255, Lime (web) (X11 green)
+50, 50, 205, Lime green
+25, 5, 89, Lincoln green
+250, 230, 240, Linen
+193, 107, 154, Lion
+83, 79, 75, Liver
+230, 32, 32, Lust
+255, 255, 0, Magenta
+202, 123, 31, Magenta (dye)
+255, 144, 0, Magenta (process)
+170, 209, 240, Magic mint
+248, 255, 244, Magnolia
+192, 0, 64, Mahogany
+251, 93, 236, Maize
+96, 220, 80, Majorelle Blue
+11, 81, 218, Malachite
+151, 170, 154, Manatee
+255, 67, 130, Mango Tango
+116, 101, 195, Mantis
+128, 0, 0, Maroon (HTML/CSS)
+176, 96, 48, Maroon (X11)
+224, 255, 176, Mauve
+145, 109, 95, Mauve taupe
+239, 170, 152, Mauvelous
+115, 251, 194, Maya blue
+229, 59, 183, Meat brown
+102, 170, 221, Medium aquamarine
+0, 205, 0, Medium blue
+226, 44, 6, Medium candy apple red
+175, 53, 64, Medium carmine
+243, 171, 229, Medium champagne
+3, 150, 80, Medium electric blue
+28, 45, 53, Medium jungle green
+221, 221, 160, Medium lavender magenta
+186, 211, 85, Medium orchid
+0, 165, 103, Medium Persian blue
+147, 219, 112, Medium purple
+187, 133, 51, Medium red-violet
+60, 113, 179, Medium sea green
+123, 238, 104, Medium slate blue
+201, 135, 220, Medium spring bud
+0, 154, 250, Medium spring green
+103, 71, 76, Medium taupe
+0, 180, 84, Medium teal blue
+72, 204, 209, Medium turquoise
+199, 133, 21, Medium violet-red
+253, 180, 188, Melon
+25, 112, 25, Midnight blue
+0, 83, 73, Midnight green (eagle green)
+255, 12, 196, Mikado yellow
+62, 137, 180, Mint
+245, 250, 255, Mint cream
+152, 152, 255, Mint green
+255, 225, 228, Misty rose
+250, 215, 235, Moccasin
+150, 23, 113, Mode beige
+115, 194, 169, Moonstone blue
+174, 0, 12, Mordant red 19
+173, 173, 223, Moss green
+48, 143, 186, Mountain Meadow
+153, 141, 122, Mountbatten pink
+197, 140, 75, Mulberry
+242, 244, 243, Munsell
+255, 88, 219, Mustard
+33, 30, 66, Myrtle
+24, 59, 69, MSU Green
+246, 198, 173, Nadeshiko pink
+42, 0, 128, Napier green
+250, 94, 218, Naples yellow
+255, 173, 222, Navajo white
+0, 128, 0, Navy blue
+255, 67, 163, Neon Carrot
+254, 194, 89, Neon fuchsia
+57, 20, 255, Neon green
+164, 237, 221, Non-photo blue
+5, 51, 144, North Texas Green
+0, 190, 119, Ocean Boat Blue
+204, 34, 119, Ochre
+0, 0, 128, Office green
+207, 59, 181, Old gold
+253, 230, 245, Old lace
+121, 120, 104, Old lavender
+103, 71, 49, Old mauve
+192, 129, 128, Old rose
+128, 0, 128, Olive
+107, 35, 142, Olive Drab (web) (Olive Drab #3)
+60, 31, 52, Olive Drab #7
+154, 115, 185, Olivine
+15, 15, 15, Onyx
+183, 167, 132, Opera mauve
+255, 0, 127, Orange (color wheel)
+251, 2, 153, Orange (RYB)
+255, 0, 165, Orange (web color)
+255, 0, 159, Orange peel
+255, 0, 69, Orange-red
+218, 214, 112, Orchid
+101, 33, 67, Otter brown
+65, 76, 74, Outer Space
+255, 74, 110, Outrageous Orange
+0, 71, 33, Oxford Blue
+153, 0, 0, OU Crimson Red
+0, 0, 102, Pakistan green
+39, 226, 59, Palatinate blue
+104, 96, 40, Palatinate purple
+188, 230, 212, Pale aqua
+175, 238, 238, Pale blue
+152, 84, 118, Pale brown
+175, 53, 64, Pale carmine
+155, 226, 196, Pale cerulean
+221, 175, 173, Pale chestnut
+218, 103, 138, Pale copper
+171, 239, 205, Pale cornflower blue
+230, 138, 190, Pale gold
+238, 170, 232, Pale goldenrod
+152, 152, 251, Pale green
+220, 255, 208, Pale lavender
+249, 229, 132, Pale magenta
+250, 221, 218, Pale pink
+221, 221, 160, Pale plum
+219, 147, 112, Pale red-violet
+150, 209, 222, Pale robin egg blue
+201, 187, 192, Pale silver
+236, 189, 235, Pale spring bud
+188, 126, 152, Pale taupe
+219, 147, 112, Pale violet-red
+120, 74, 24, Pansy purple
+255, 213, 239, Papaya whip
+80, 120, 200, Paris Green
+174, 207, 198, Pastel blue
+131, 83, 105, Pastel brown
+207, 196, 207, Pastel gray
+119, 119, 221, Pastel green
+244, 194, 154, Pastel magenta
+255, 71, 179, Pastel orange
+255, 220, 209, Pastel pink
+179, 181, 158, Pastel purple
+255, 97, 105, Pastel red
+203, 201, 153, Pastel violet
+253, 150, 253, Pastel yellow
+128, 128, 0, Patriarch
+64, 79, 64, Payne's grey
+255, 180, 229, Peach
+255, 153, 204, Peach-orange
+255, 185, 218, Peach puff
+250, 173, 223, Peach-yellow
+209, 49, 226, Pear
+234, 200, 224, Pearl
+136, 192, 216, Pearl Aqua
+230, 0, 226, Peridot
+204, 255, 204, Periwinkle
+28, 187, 57, Persian blue
+0, 147, 166, Persian green
+50, 122, 18, Persian indigo
+217, 88, 144, Persian orange
+247, 190, 127, Persian pink
+112, 28, 28, Persian plum
+204, 51, 51, Persian red
+254, 162, 40, Persian rose
+223, 255, 0, Phlox
+0, 137, 15, Phthalo blue
+18, 36, 53, Phthalo green
+253, 230, 221, Piggy pink
+1, 111, 121, Pine green
+255, 203, 192, Pink
+255, 102, 153, Pink-orange
+231, 207, 172, Pink pearl
+247, 167, 143, Pink Sherbet
+147, 114, 197, Pistachio
+229, 226, 228, Platinum
+142, 133, 69, Plum (traditional)
+221, 221, 160, Plum (web)
+255, 54, 90, Portland Orange
+176, 230, 224, Powder blue (web)
+255, 0, 143, Princeton orange
+112, 28, 28, Prune
+0, 83, 49, Prussian blue
+223, 255, 0, Psychedelic purple
+204, 153, 136, Puce
+255, 24, 117, Pumpkin
+128, 128, 0, Purple (HTML/CSS)
+159, 197, 0, Purple (Munsell)
+160, 240, 32, Purple (X11)
+105, 156, 53, Purple Heart
+150, 182, 120, Purple mountain majesty
+254, 218, 78, Purple pizzazz
+80, 77, 64, Purple taupe
+81, 79, 72, Quartz
+255, 94, 53, Radical Red
+227, 93, 11, Raspberry
+145, 109, 95, Raspberry glace
+226, 152, 80, Raspberry pink
+179, 108, 68, Raspberry rose
+130, 68, 102, Raw umber
+255, 204, 51, Razzle dazzle rose
+227, 107, 37, Razzmatazz
+255, 0, 0, Red
+242, 60, 0, Red (Munsell)
+196, 51, 2, Red (NCS)
+237, 36, 28, Red (pigment)
+254, 18, 39, Red (RYB)
+165, 42, 42, Red-brown
+199, 133, 21, Red-violet
+171, 82, 78, Redwood
+0, 64, 64, Rich black
+241, 254, 167, Rich brilliant lavender
+215, 64, 0, Rich carmine
+8, 208, 146, Rich electric blue
+167, 207, 107, Rich lavender
+182, 210, 102, Rich lilac
+176, 96, 48, Rich maroon
+65, 51, 72, Rifle green
+0, 204, 204, Robin egg blue
+255, 127, 0, Rose
+249, 158, 66, Rose bonbon
+103, 70, 72, Rose ebony
+183, 121, 110, Rose gold
+227, 54, 38, Rose madder
+255, 204, 102, Rose pink
+170, 169, 152, Rose quartz
+144, 93, 93, Rose taupe
+171, 82, 78, Rose vale
+101, 11, 0, Rosewood
+212, 0, 0, Rosso corsa
+188, 143, 143, Rosy brown
+0, 168, 56, Royal azure
+0, 102, 35, Royal blue (traditional)
+65, 225, 105, Royal blue (web)
+202, 146, 44, Royal fuchsia
+120, 169, 81, Royal purple
+224, 95, 17, Ruby
+255, 40, 0, Ruddy
+187, 40, 101, Ruddy brown
+225, 150, 142, Ruddy pink
+168, 7, 28, Rufous
+128, 27, 70, Russet
+183, 14, 65, Rust
+0, 63, 86, Sacramento State green
+139, 19, 69, Saddle brown
+255, 0, 103, Safety orange (blaze orange)
+244, 48, 196, Saffron
+35, 122, 41, St. Patrick's blue
+255, 105, 140, Salmon
+255, 164, 145, Salmon pink
+194, 128, 178, Sand
+150, 23, 113, Sand dune
+236, 64, 213, Sandstorm
+244, 96, 164, Sandy brown
+150, 23, 113, Sandy taupe
+80, 42, 125, Sap green
+15, 186, 82, Sapphire
+203, 53, 161, Satin sheen gold
+255, 0, 36, Scarlet
+255, 0, 36, Scarlet (Crayola)
+255, 0, 216, School bus yellow
+118, 122, 255, Screamin' Green
+46, 87, 139, Sea green
+50, 20, 20, Seal brown
+255, 238, 245, Seashell
+255, 0, 186, Selective yellow
+112, 20, 66, Sepia
+138, 93, 121, Shadow
+0, 96, 158, Shamrock green
+252, 192, 15, Shocking pink
+136, 23, 45, Sienna
+192, 192, 192, Silver
+203, 11, 65, Sinopia
+0, 116, 116, Skobeloff
+135, 235, 206, Sky blue
+207, 175, 113, Sky magenta
+106, 205, 90, Slate blue
+112, 144, 128, Slate gray
+0, 153, 51, Smalt (Dark powder blue)
+147, 65, 61, Smokey topaz
+16, 8, 12, Smoky black
+255, 250, 250, Snow
+15, 252, 192, Spiro Disco Ball
+254, 255, 253, Splashed white
+167, 0, 252, Spring bud
+0, 127, 255, Spring green
+70, 180, 130, Steel blue
+250, 94, 218, Stil de grain yellow
+153, 0, 0, Stizza
+228, 111, 217, Straw
+255, 51, 204, Sunglow
+250, 165, 214, Sunset
+210, 140, 180, Tan
+249, 0, 77, Tangelo
+242, 0, 133, Tangerine
+255, 0, 204, Tangerine yellow
+72, 50, 60, Taupe
+139, 137, 133, Taupe gray
+208, 192, 240, Tea green
+248, 121, 131, Tea rose (orange)
+244, 194, 194, Tea rose (rose)
+0, 128, 128, Teal
+54, 136, 117, Teal blue
+0, 91, 109, Teal green
+205, 0, 87, Tenné (Tawny)
+226, 91, 114, Terra cotta
+216, 216, 191, Thistle
+222, 161, 111, Thulian pink
+252, 172, 137, Tickle Me Pink
+10, 181, 186, Tiffany Blue
+224, 60, 141, Tiger's eye
+219, 210, 215, Timberwolf
+238, 0, 230, Titanium yellow
+255, 71, 99, Tomato
+116, 192, 108, Toolbox
+255, 124, 200, Topaz
+253, 53, 14, Tractor red
+128, 128, 128, Trolley Grey
+0, 94, 117, Tropical rain forest
+0, 207, 115, True Blue
+65, 193, 125, Tufts Blue
+222, 136, 170, Tumbleweed
+181, 129, 114, Turkish rose
+48, 200, 213, Turquoise
+0, 239, 255, Turquoise blue
+160, 180, 214, Turquoise green
+102, 77, 66, Tuscan red
+138, 107, 73, Twilight lavender
+102, 60, 2, Tyrian purple
+0, 170, 51, UA blue
+217, 76, 0, UA red
+136, 195, 120, Ube
+83, 149, 104, UCLA Blue
+255, 0, 179, UCLA Gold
+60, 112, 208, UFO Green
+18, 143, 10, Ultramarine
+65, 245, 102, Ultramarine blue
+255, 255, 111, Ultra pink
+99, 71, 81, Umber
+91, 229, 146, United Nations blue
+183, 39, 135, University of California Gold
+255, 102, 255, Unmellow Yellow
+1, 33, 68, UP Forest green
+123, 19, 17, UP Maroon
+174, 41, 32, Upsdell red
+225, 33, 173, Urobilin
+153, 0, 0, USC Cardinal
+255, 0, 204, USC Gold
+211, 63, 0, Utah Crimson
+243, 171, 229, Vanilla
+197, 88, 179, Vegas gold
+200, 21, 8, Venetian red
+67, 174, 179, Verdigris
+227, 52, 66, Vermilion
+160, 240, 32, Veronica
+143, 255, 0, Violet
+127, 255, 0, Violet (color wheel)
+134, 175, 1, Violet (RYB)
+238, 238, 130, Violet (web)
+64, 109, 130, Viridian
+146, 36, 39, Vivid auburn
+159, 53, 29, Vivid burgundy
+218, 129, 29, Vivid cerise
+255, 137, 160, Vivid tangerine
+159, 255, 0, Vivid violet
+0, 66, 66, Warm black
+100, 82, 84, Wenge
+245, 179, 222, Wheat
+255, 255, 255, White
+245, 245, 245, White smoke
+162, 208, 173, Wild blue yonder
+255, 164, 67, Wild Strawberry
+252, 133, 108, Wild Watermelon
+114, 55, 47, Wine
+201, 220, 160, Wisteria
+115, 120, 134, Xanadu
+15, 146, 77, Yale Blue
+255, 0, 255, Yellow
+239, 0, 204, Yellow (Munsell)
+255, 0, 211, Yellow (NCS)
+255, 0, 239, Yellow (process)
+254, 51, 254, Yellow (RYB)
+154, 50, 205, Yellow-green
+255, 66, 174, Yellow Orange
+0, 168, 20, Zaffre
+44, 8, 22, Zinnwaldite brown
